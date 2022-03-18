@@ -1,0 +1,233 @@
+.u-block-948d-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-948d-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-948d-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: url("images/Redhouse.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 950px;
+}
+
+.u-section-1-1 .u-image-1 {
+  width: 119px;
+  height: 119px;
+  transition-duration: 0.75s;
+  background-image: url("images/SmartPaintlogo-01.jpg");
+  background-position: 50% 50%;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 365px auto 0 661px;
+}
+
+.u-section-1-1 .u-image-2 {
+  width: 119px;
+  height: 119px;
+  transition-duration: 0.75s;
+  background-image: url("images/FabimetalLOGO-05.jpg");
+  background-position: 50% 50%;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -118px auto 0 361px;
+}
+
+.u-section-1-1 .u-image-3 {
+  width: 122px;
+  height: 122px;
+  transition-duration: 0.75s;
+  background-image: url("images/ROOFINGSlogo-13.jpg");
+  background-position: 50% 50%;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -118px auto 0;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 3rem;
+  width: 652px;
+  margin: 14px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-1-1 .u-image-1 {
+    margin-left: 561px;
+  }
+
+  .u-section-1-1 .u-image-2 {
+    margin-left: 261px;
+  }
+
+  .u-section-1-1 .u-image-3 {
+    margin-left: 309px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 639px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-image-1 {
+    margin-left: 452px;
+  }
+
+  .u-section-1-1 .u-image-2 {
+    margin-left: 212px;
+  }
+
+  .u-section-1-1 .u-image-3 {
+    margin-left: 150px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 604px;
+  }
+
+  .u-section-1-1 .u-image-1 {
+    margin-left: 317px;
+  }
+
+  .u-section-1-1 .u-image-2 {
+    margin-left: 257px;
+  }
+
+  .u-section-1-1 .u-image-3 {
+    margin-left: 105px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-1-1 .u-image-1 {
+    margin-right: 201px;
+    margin-left: 221px;
+  }
+
+  .u-section-1-1 .u-image-2 {
+    margin-left: 201px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 320px;
+  }
+}
+
+.u-block-1f7a-8:not([data-block-selected]):not([data-cell-selected]),
+.u-block-1f7a-8:not([data-block-selected]):not([data-cell-selected]):before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-block-1f7a-8:not([data-block-selected]):not([data-cell-selected]).u-block-1f7a-8:not([data-block-selected]):not([data-cell-selected]).u-block-1f7a-8:not([data-block-selected]):not([data-cell-selected]):hover {
+  transform: translateX(1px) rotate(0deg) translateY(1px) !important;
+}
+
+.u-block-1f7a-8.u-block-1f7a-8.u-block-1f7a-8.hover {
+  transform: translateX(1px) rotate(0deg) translateY(1px) !important;
+}
+
+.u-container-layout:hover .u-block-1f7a-8:not([data-block-selected]):not([data-cell-selected]) {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-block-1f7a-8 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1-1 .u-image-2,
+.u-section-1-1 .u-image-2:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1-1 .u-image-2.u-image-2.u-image-2:hover {
+  transform: translateX(0px) translateY(-10px) scale(1) !important;
+  box-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+}
+
+.u-section-1-1 .u-image-2.u-image-2.u-image-2.hover {
+  transform: translateX(0px) translateY(-10px) scale(1) !important;
+  box-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+}
+
+.u-section-1-1 .u-container-layout:hover .u-image-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1-1 .u-image-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1-1 .u-image-3,
+.u-section-1-1 .u-image-3:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1-1 .u-image-3.u-image-3.u-image-3:hover {
+  transform: translateX(0px) translateY(-10px) scale(1) !important;
+  box-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+}
+
+.u-section-1-1 .u-image-3.u-image-3.u-image-3.hover {
+  transform: translateX(0px) translateY(-10px) scale(1) !important;
+  box-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+}
+
+.u-section-1-1 .u-container-layout:hover .u-image-3 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1-1 .u-image-3 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1-1 .u-image-1,
+.u-section-1-1 .u-image-1:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1-1 .u-image-1.u-image-1.u-image-1:hover {
+  transform: translateX(0px) translateY(-10px) scale(1) !important;
+  box-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+}
+
+.u-section-1-1 .u-image-1.u-image-1.u-image-1.hover {
+  transform: translateX(0px) translateY(-10px) scale(1) !important;
+  box-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+  text-shadow: undefined undefined undefined rgba(var(--undefined-r),var(--undefined-g),var(--undefined-b),0) !important;
+}
+
+.u-section-1-1 .u-container-layout:hover .u-image-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1-1 .u-image-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
