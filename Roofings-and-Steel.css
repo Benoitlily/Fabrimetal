@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 66px;
+  min-height: 71px;
 }
 
 .u-section-1 .u-image-1 {
@@ -8,14 +8,81 @@
   margin: 0 auto 0 0;
 }
 
+.u-section-1 .u-list-1 {
+  width: 352px;
+  margin: -55px 16px 16px auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  min-height: 47px;
+  grid-template-columns: calc(25% - 12.75px) calc(25% - 12.75px) calc(25% - 12.75px) calc(25% - 12.75px);
+  grid-gap: 17px 17px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
 .u-section-1 .u-btn-1 {
-  border-style: none;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  background-image: none;
-  margin: -50px 0 16px auto;
-  padding: 6px 30px 7px;
+  border-style: none none solid;
+  margin: 0 auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none none solid;
+  margin: 0 auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: none none solid;
+  margin: 0 auto 0 0;
+  padding: 0;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 10px;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: none none solid;
+  margin: 0 auto 0 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(4, calc(25% - 12.75px));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-repeater-1 {
+    min-height: 188px;
+    grid-template-columns: repeat(2, calc(50% - 8.5px));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-list-1 {
+    width: 340px;
+    margin-right: 0;
+  }
 }.u-block-b778-2 {
   position: absolute;
   bottom: 10px;
@@ -46,7 +113,7 @@
 }
 
  .u-section-2-1 {
-  background-image: url("images/WhatsAppImage2022-03-18at8.29.55AM3.jpeg");
+  background-image: url("images/IMG-20210901-WA0075.jpg");
   background-position: 50% 50%;
   background-size: 110%;
 }
@@ -88,8 +155,8 @@
 }
 
  .u-section-2-2 {
-  background-image: url("images/WhatsAppImage2022-03-18at8.29.55AM.jpeg");
-  background-position: 3.23% 80.06%;
+  background-image: url("images/1R4A9732.jpg");
+  background-position: 50% 50%;
   background-size: 135%;
 }
 
@@ -172,7 +239,7 @@
 }
 
  .u-section-2-4 {
-  background-image: url("images/WhatsAppImage2022-03-18at8.29.55AM2.jpeg");
+  background-image: url("images/1R4A9845.jpg");
   background-position: 50% 50%;
   background-size: 135%;
 }
